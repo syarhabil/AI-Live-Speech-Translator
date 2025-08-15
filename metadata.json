@@ -1,0 +1,7 @@
+{
+  "name": "AI Live Speech Translator",
+  "description": "A real-time speech translation application powered by the Gemini API and browser-based speech recognition. Speak in one language and see the translation in another almost instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
